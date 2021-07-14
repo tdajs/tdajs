@@ -1,0 +1,19 @@
+{
+  "name": "tdajs",
+  "version": "0.0.1",
+  "description": "TDA in Javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdajs/tdajs.git"
+  },
+  "author": "Sushovan Majhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdajs/tdajs/issues"
+  },
+  "homepage": "https://github.com/tdajs/tdajs#readme"
+}
